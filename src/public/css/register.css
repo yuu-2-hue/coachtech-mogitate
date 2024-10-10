@@ -1,0 +1,94 @@
+.content__container{
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ttl{
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(51, 51, 51, 1);
+}
+
+.form__item{
+    margin-top: 40px;
+}
+
+.ttl__container{
+    margin-bottom: 10px;
+}
+
+.item__ttl{
+    font-size: 16px;
+    color: rgba(75, 75, 75, 1);
+}
+
+.item__alert{
+    background-color: rgba(253, 7, 7, 1);
+    color: rgba(255, 255, 255, 1);
+    padding-inline: 5px;
+    margin-inline-start: 10px;
+}
+
+.item__text{
+    width: 100%;
+    height: 43px;
+    border: 1px solid rgba(224, 223, 222, 1);
+    border-radius: 5px;
+    padding: 11px 10px;
+}
+
+.item__season{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid rgba(75, 75, 75, 1);
+    top: 4px;
+}
+
+label{
+    font-size: 16px;
+    color: rgba(75, 75, 75, 1);
+    margin-right: 2%;
+}
+
+.item__detail{
+    width: 100%;
+    height: 160px;
+    padding: 11px 10px;;
+}
+
+.form__buttons{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.return__button{
+    width: 25%;
+    height: 50px;
+    color: rgba(75, 75, 75, 1);
+    background-color: rgba(224, 223, 222, 1);
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.1);
+    padding: 13px 10px;
+    margin-right: 5px;
+}
+
+.entry__button{
+    width: 25%;
+    height: 50px;
+    color: rgba(75, 75, 75, 1);
+    background-color: rgba(245, 200, 0, 1);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.1);
+    padding: 13px 10px;
+    margin-left: 5px;
+}
+
+.error {
+    color: red;
+}

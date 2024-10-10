@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(248, 248, 248, 1);
+}
+
+.header__container{
+    font-family: 'jsMath-cmti10', sans-serif;
+    background-color: #fff;
+}
+
+.header__inner{
+    margin: 0px auto;
+}
+
+.header__logo{
+    color: rgba(245, 200, 0, 1);
+    font-size: 30px;
+    text-decoration: none;
+    margin-inline: 20px;
+    align-items: center;
+}
