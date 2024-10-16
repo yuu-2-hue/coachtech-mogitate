@@ -16,7 +16,7 @@
 * Laravel 8.0
 * MySQL 8.0.26
 ### ER図
-![img\er.png が見つかりません](img\mogitate-er.png "Image")
+![mogitate-er.png が見つかりません](mogitate-er.png "Image")
 ### URL
 * 開発環境：http://localhost/products
 * phpMyAdmin：http://localhost:8080/
